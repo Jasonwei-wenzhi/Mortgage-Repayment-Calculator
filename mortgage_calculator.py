@@ -3,7 +3,7 @@ import pandas as pd
 import matplotlib
 import math
 
-st.title("Mortgage Repayments Calculator")
+st.title("Jason Wei's Mortgage Repayments Calculator")
 
 st.write("### Input Data")
 col1, col2 = st.columns(2)
